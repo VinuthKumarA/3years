@@ -1,6 +1,5 @@
 package easy_problems_on_arrays;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class sumofdigit {

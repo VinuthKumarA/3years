@@ -14,6 +14,7 @@ public class primenocheck {
             for(int i=2;i<=Math.sqrt(num);i++){
                 if(num%2==0){
                     isprime=false;
+                    break;
                 }
             }
         }
